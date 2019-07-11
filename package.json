@@ -1,5 +1,5 @@
 {
-  "name": "tictac-game",
+  "name": "tictactoe-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
